@@ -54,15 +54,14 @@ This <a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">datase
 # Findings from Analysis
 =====================================================
 
-Our comprehensive analysis of accident data has uncovered several crucial patterns and trends:
+### Our comprehensive analysis of accident data has uncovered several crucial patterns and trends:
 
 * **Miami**: Highest accident rate, likely due to high population density and traffic volume.
 * **Star Junction and Stromsburg**: Lower accident rates due to smaller size and lower traffic.
 * **California**: Most accidents, reflecting large population and extensive road network.
 * **South Dakota**: Fewest accidents, likely due to lower population density and traffic volume.
 
-## Accident Characteristics
----------------------------
+### Accident Characteristics
 
 * **Severity**: Majority of accidents fall into severity level 2, indicating high number of non-fatal incidents.
 * **Weather**: Fair weather conditions prevalent during accidents, implying factors like driver behavior and traffic congestion may play more significant role than weather in accident causation.
