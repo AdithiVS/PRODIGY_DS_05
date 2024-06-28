@@ -1,4 +1,5 @@
 # PRODIGY_DS_05
+# TASK: Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
 # About the Dataset
 This <a href="https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents">dataset</a> covers car accidents in 49 states of the USA from February 2016 to March 2023. It includes around 7.7 million accident records collected from various sources like transportation departments, law enforcement, cameras, and traffic sensors.
 | # | Attribute             | Description                                                                                               |
